@@ -1,0 +1,35 @@
+{
+    "basic_details": {
+        "salutation": "Ms",
+        "first_name": "vikas",
+        "last_name": "test",
+        "email": "v.voladri",
+        "extension": "@finlink.de",
+        "phone_number": "1761234567",
+        "employment_status": "Employed",
+        "monthly_income": "2500",
+        "applying_alone": "Alone",
+        "residency_status": "Full German citizen",
+        "external_id": "9876543"
+    },
+    "Capital_raising_details": {
+        "financing_type": "Capital raising",
+        "capital_raising_amount": "50000",
+        "max_downpayment": "150000",
+        "property_value": "700000",
+        "zip": "10119",
+        "city": "Berlin"
+    },
+
+    "Buy_an_existing_property_details":{
+      "financing_type":"Buy an existing property",
+      "purchase_price":"60000",
+      "max_downpayment":"140000",
+      "property_value":"400000",
+      "zip":"10243",
+      "city":"Berlin",
+      "found_property":"Yes",
+      "property_type":"Apartment",
+      "real_estate_agent_fees":"5"
+    }
+}

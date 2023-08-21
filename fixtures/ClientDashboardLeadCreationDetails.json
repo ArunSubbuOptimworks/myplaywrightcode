@@ -1,0 +1,36 @@
+{
+    "Capital_raising_Questions":{
+        "question1":"What are you planning to finance?",
+        "question1Answer":"Buy an existing property",
+        "question2":"What is the progress of your property search?",
+        "question2Answer":"Looking for a property",
+        "question3":"Do you plan to live there or rent it out?",
+        "question3Answer":"Live there",
+        "question4":"What is your German residency status? ",
+        "question4Answer":"Permanent residence permit",
+        "question5":"In which city is the property located?",
+        "question5Answer":"10243",
+        "question6":"What is the purchase price?",
+        "question6Answer":"400000",
+        "question7":"Is there a brokerage fee?",
+        "question7Answer":"Without fee",
+        "question8":"What is the maximum down payment you want to invest in the property?",
+        "question8Answer":"200000",
+        "question9":"Are you applying alone or with someone else?",
+        "question9Answer":"Alone",
+        "question10":"What is your employment status?",
+        "question10Answer":"Other",
+        "question11":"What is the monthly net income in the household?",
+        "question11Answer":"40000",
+        "salutation":"Mr.",
+        "first_name":"Vikas",
+        "last_name":"test",
+        "phone_number":"1766895462",
+        "password":"Vikas@123!"
+
+        
+
+
+        
+}
+}
